@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studied Computer Science.
+- 🎓 &nbsp; Studied software engineering.
 - 🌱 &nbsp; Learning more about Web development, NLP, ML and AI.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
@@ -49,7 +49,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://yayner2002.github.io/myPortfolio/"><img alt="Website" src="https://img.shields.io/badge/BiniamEwnetu.github.io/myPortfolio-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://BiniamEwnetu.github.io/myPortfolio/"><img alt="Website" src="https://img.shields.io/badge/BiniamEwnetu.github.io/myPortfolio-blue?style=flat-square&logo=google-chrome"></a>
 <a href="ebiniam12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/ebiniam12@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
